@@ -59,9 +59,7 @@
 
 ## 反馈与纠错
 
-发现知识性错误或有改进建议,欢迎提交 Issue 或 Pull Request。
-(注:页面开屏提示中的反馈链接需替换为你本仓库的 Issues 地址,例如
-`https://github.com/<user>/huangmei-opera-origins-1985-knowledge-tree/issues`。)
+发现知识性错误或有改进建议,欢迎在 [Issues](https://github.com/XueyanSnowGoose/huangmei-opera-origins/issues) 提交或发起 Pull Request。页面开屏提示中的反馈链接即指向此处。
 
 ## 技术说明
 
