@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2026 <你的名字 / GitHub 用户名>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+NOTE ON CONTENT LICENSING / 内容版权说明
+
+The MIT license above applies ONLY to the source code of this repository
+(HTML / CSS / JavaScript written for this project).
+
+It does NOT apply to the textual content, which is summarized and indexed from
+《黄梅戏源流》 by 陆洪非 (Lu Hongfei), published by 安徽文艺出版社 (Anhui
+Literature and Art Publishing House), 1st edition, September 1985.
+
+The copyright of that book belongs to its author and publisher. The content in
+this repository is provided for study and research purposes only, is not for
+commercial use, and should be cited together with the original author and
+edition. Rights holders may request removal.
+
+以上 MIT 许可仅适用于本仓库的源代码(为本项目编写的 HTML / CSS / JavaScript),
+不适用于文字内容。文字内容整理自陆洪非《黄梅戏源流》(安徽文艺出版社,1985 年 9 月
+第 1 版),其著作权归原作者及出版方所有;本仓库内容仅供学习研究,不作商业用途,
+引用时请同时标注原书作者与版本。如权利人认为不妥,可要求删除。
+-------------------------------------------------------------------------------
